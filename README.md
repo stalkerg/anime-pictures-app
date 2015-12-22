@@ -1,4 +1,6 @@
 # Anime Pictures Android App
+![Anime Pictures Logo]
+(https://raw.githubusercontent.com/stalkerg/anime-pictures-app/master/logo.jpg)
 This repositories for issues tracker now: https://github.com/stalkerg/anime-pictures-app/issues
 App you can download here: https://play.google.com/store/apps/details?id=com.animepictures.stalkerg.ap
 I can only respond effectively in English and Russian languages.
