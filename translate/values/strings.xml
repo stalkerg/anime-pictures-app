@@ -41,7 +41,7 @@
     <string name="register_text">After registration, we will send you an e-mail confirmation link.</string>
     <string name="register_email_text">for confirmation code, please don\'t use phone email like blabla@docomo.ne.jp</string>
     <string name="Success">Success</string>
-    <string name="register_success_text">On your mail sent a link to confirm. After confirmation, you can log in.</string>
+    <string name="register_success_text">A confirmation email with link has been sent. After confirmation, you can log in.</string>
     <string name="Favorite_folders">Favorite folders</string>
     <string name="All_favorites">All</string>
     <string name="fav_spinner_title">Save to favorites</string>
