@@ -25,7 +25,7 @@
     <string name="recent_past_week">dernière semaine</string>
     <string name="recent_past_month">dernier mois</string>
     <string name="Filter_by_color">Couleur:</string>
-    <string name="Auth">Autorisation</string>
+    <string name="Auth">Connexion</string>
     <string name="Logout">Déconnexion</string>
     <string name="picture_votes">Votes</string>
     <string name="Change_save_folder">Changer le dossier de sauvegarde</string>
@@ -52,7 +52,7 @@
     <string name="fav_add">Ajouter à </string>
     <string name="rate_text">Si vous appréciez l\'application \"Anime Pictures\", prenez un moment pour la noter. Merci de votre soutien !</string>
     <string name="couldnt_rate">Impossible de noter l\'application</string>
-    <string name="please_rate_app">Lerci de noter l\'application</string>
+    <string name="please_rate_app">Merci de noter l\'application</string>
     <string name="Yes">Oui</string>
     <string name="No">Non</string>
     <string name="top_of_the_day">TOP de la journée</string>
