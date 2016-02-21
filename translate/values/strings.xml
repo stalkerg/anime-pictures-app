@@ -25,7 +25,7 @@
     <string name="recent_past_week">past week</string>
     <string name="recent_past_month">past month</string>
     <string name="Filter_by_color">Filter by color:</string>
-    <string name="Auth">Authorization</string>
+    <string name="Auth">Connection</string>
     <string name="Logout">Logout</string>
     <string name="picture_votes">Votes</string>
     <string name="Change_save_folder">Change folder for pictures</string>
