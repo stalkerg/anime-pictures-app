@@ -64,7 +64,8 @@
     <string name="Download">下载</string>
     <string name="Copy_URL">复制 URL</string>
     <string name="Star_It">给予星星</string>
-    <string name="Share_picture">分享图片</Edit folder name></string>
+    <string name="Share_picture">分享图片</string>
+    <string name="Edit_folder_name">修改文件夹名</string>
     <string name="You_are_sure">确定？</string>
     <string name="Add">增加新文件夹</string>
     <string name="or_register">注册</string>
