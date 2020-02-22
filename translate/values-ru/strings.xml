@@ -70,4 +70,6 @@
     <string name="Add">Добавить</string>
     <string name="or_register">или регистрация</string>
     <string name="Invite_friends">Пригласить друзей</string>
+    <string name="<string name="default_folder_path">Стандартная папка</string>
+    <string name="<string name="none">Не задано</string>
 </resources>
